@@ -2,17 +2,20 @@
 
 🎓 Education:
 
-University Aix - Marseille - Mathematique and Computer science
-Comptia A+
+-University Aix - Marseille - Mathematique and Computer science
+-Comptia A+
+
 🚀 Skills:
 
-Programming Languages: Java , bash , python , kotlin , JavaScript , Sql
-Soft Skills: problem-solving
+-Programming Languages: Java , bash , python , kotlin , JavaScript , Sql
+-Soft Skills: problem-solving
+
 🌱 Currently Learning:
 
-Learning web developement (JavaScript -html-css etc...)
+-Learning web developement (JavaScript -html-css etc...)
+
 📫 How to reach me:
-ezzaouimohamedamine@gmail.com
+-ezzaouimohamedamine@gmail.com
 
 👀 Check out my repositories below to see some of my projects and contributions. Feel free to connect and collaborate!
 
