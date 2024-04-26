@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hello there! I'm Mohamed-Amine Ez-zaoui, a passionate programming and pen-testing from Morocco , living in Frannce . Welcome to my GitHub profile!
 
-<!--
-**n1motv/n1motv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education:
 
-Here are some ideas to get you started:
+University Aix - Marseille - Mathematique and Computer science
+Comptia A+
+🚀 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: Java , bash , python , kotlin , JavaScript , Sql
+Soft Skills: problem-solving
+🌱 Currently Learning:
+
+Learning web developement (JavaScript -html-css etc...)
+📫 How to reach me:
+
+ezzaouimohamedamine@gmail.com
+👀 Check out my repositories below to see some of my projects and contributions. Feel free to connect and collaborate!
+
+Happy coding! 🚀
