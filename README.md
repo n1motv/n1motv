@@ -12,8 +12,8 @@ Soft Skills: problem-solving
 
 Learning web developement (JavaScript -html-css etc...)
 📫 How to reach me:
-
 ezzaouimohamedamine@gmail.com
+
 👀 Check out my repositories below to see some of my projects and contributions. Feel free to connect and collaborate!
 
 Happy coding! 🚀
