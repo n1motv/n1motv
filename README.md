@@ -1,4 +1,4 @@
-👋 Hello there! I'm Mohamed-Amine Ez-zaoui, a passionate programming and pen-testing from Morocco , living in Frannce . Welcome to my GitHub profile!
+👋 Hello there! I'm Mohamed-Amine Ez-zaoui, a passionate programmer and pen-tester from Morocco , living in Frannce . Welcome to my GitHub profile!
 
 🎓 Education:
 
