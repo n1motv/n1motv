@@ -2,7 +2,7 @@
 
 🎓 Education:
 
--University Aix - Marseille - Mathematique and Computer science
+-University Aix - Marseille : Mathematique and Computer science
 -Comptia A+
 
 🚀 Skills:
