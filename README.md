@@ -20,4 +20,5 @@
 👀 Check out my repositories below to see some of my projects and contributions. Feel free to connect and collaborate!
 
 Happy coding! 🚀
-![Uploading 9mtznxfpdeuq48ed1el8.gif…]()
+
+![giphy](https://github.com/n1motv/n1motv/assets/77668027/b62db6bd-12f0-4fbe-ab2c-2ab69fc4a8b0)
