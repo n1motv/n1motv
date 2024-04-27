@@ -8,6 +8,7 @@
 🚀 Skills:
 
 -Programming Languages: Java , bash , python , kotlin , JavaScript , Sql
+
 -Soft Skills: problem-solving
 
 🌱 Currently Learning:
