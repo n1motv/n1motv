@@ -7,13 +7,13 @@
 
 🚀 Skills:
 
--Programming Languages: Java , bash , python , kotlin , JavaScript , Sql
+-Programming Languages: Java , bash , python , kotlin , JavaScript , Sql ,html , css 
 
 -Soft Skills: problem-solving
 
 🌱 Currently Learning:
 
--Learning web developement (JavaScript -html-css etc...)
+-Learning web developement back-end (php , git , node.js  etc...)
 
 📫 How to reach me:
 ezzaouimohamedamine@gmail.com
