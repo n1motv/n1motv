@@ -3,8 +3,6 @@
 🎓 Education:
 
 -University Aix - Marseille : Mathematique and Computer science
--Comptia A+
-
 🚀 Skills:
 
 -Programming Languages: Java , bash , python , kotlin , JavaScript , Sql ,html , css 
