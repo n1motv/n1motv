@@ -1,17 +1,21 @@
-👋 Hello there! I'm Mohamed-Amine Ez-zaoui, a passionate programmer and pen-tester from Morocco , living in France . Welcome to my GitHub profile!
+👋 Hello there! I'm Mohamed-Amine Ez-zaoui, a passionate developer and pen-tester from Morocco , living in France . Welcome to my GitHub profile!
 
 🎓 Education:
 
--University Aix - Marseille : Mathematique and Computer science
-🚀 Skills:
+-University Aix - Marseille : MAIGISTE ( Computer science and management )
 
--Programming Languages: Java , bash , python , kotlin , JavaScript , Sql ,html , css 
+🚀 Technical Skills
+Programming Languages: Python, Java, Bash, JavaScript, TypeScript, Kotlin, SQL , C# , VBA 
+Web Development: Flask, HTML, CSS , React.js , Bootstrap
+Cloud & DevOps: AWS, Git, Docker
+Cybersecurity: Pentesting, Hashing & Encryption (bcrypt, Argon2) , Catch the flag 
+Database Management: MySQL, PostgreSQL, SqLite3 , Sql Server 
+🛠️ Passionate about building robust applications and exploring security vulnerabilities to make systems safer!
 
--Soft Skills: problem-solving
-
-🌱 Currently Learning:
-
--Learning web developement back-end (php , git , node.js  etc...)
+🌱 Currently Learning
+Advanced Back-End Development (Node.js, PHP, API Security)
+Cloud & Infrastructure (AWS, Docker, CI/CD)
+Pentesting & Cybersecurity (CTF challenges, network security)
 
 📫 How to reach me:
 ezzaouimohamedamine@gmail.com
