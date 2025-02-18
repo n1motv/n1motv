@@ -5,17 +5,27 @@
 -University Aix - Marseille : MAIGISTE ( Computer science and management )
 
 🚀 Technical Skills
+
 Programming Languages: Python, Java, Bash, JavaScript, TypeScript, Kotlin, SQL , C# , VBA 
+
 Web Development: Flask, HTML, CSS , React.js , Bootstrap
+
 Cloud & DevOps: AWS, Git, Docker
+
 Cybersecurity: Pentesting, Hashing & Encryption (bcrypt, Argon2) , Catch the flag 
+
 Database Management: MySQL, PostgreSQL, SqLite3 , Sql Server 
+
 🛠️ Passionate about building robust applications and exploring security vulnerabilities to make systems safer!
 
 🌱 Currently Learning
+
 Advanced Back-End Development (Node.js, PHP, API Security)
+
 Cloud & Infrastructure (AWS, Docker, CI/CD)
+
 Pentesting & Cybersecurity (CTF challenges, network security)
+
 
 📫 How to reach me:
 ezzaouimohamedamine@gmail.com
