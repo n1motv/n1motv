@@ -36,3 +36,6 @@ ezzaouimohamedamine@gmail.com
 
 ![giphy](https://github.com/n1motv/n1motv/assets/77668027/b62db6bd-12f0-4fbe-ab2c-2ab69fc4a8b0)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=philippart-s&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=philippart-s&show_icons=true&theme=radical&count_private=true)
+
